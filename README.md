@@ -8,7 +8,7 @@ It is also easily composed into your own generators so you can only target your 
 ## Install
 
 ```
-$ npm install --global generator-node
+$ npm install --global generator-canner-node
 ```
 
 
